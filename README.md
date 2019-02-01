@@ -12,37 +12,35 @@ The goal with TNC project is to use new kind of charging technology.
 **ByteData**
 ``Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]``
 
-- [] ByteArray 
-- [] SignalByte 
-- [] ScreenCharge 
-- [] CapacityByte
-- [] InductiveByte
+- [ ] ByteArray 
+- [ ] SignalByte 
+- [ ] ScreenCharge 
+- [ ] CapacityByte
+- [ ] InductiveByte
 
 **Signals** 
-- [x] FrequencyByteArray
-- [x] FrequencyNode
-- [x] FrequencyFrag
-- [x] WaveformChargeNode
-- [x] WaveformChargeFrag
-- [x] SquareIntegrableSignals
-- [x] ImpulseDistSignal
+- [ ] FrequencyByteArray
+- [ ] FrequencyNode
+- [ ] FrequencyFrag
+- [ ] WaveformChargeNode
+- [ ] WaveformChargeFrag
+- [ ] SquareIntegrableSignals
+- [ ] ImpulseDistSignal
 
 **Functions**
-- [x] NormFunc
-- [x] EnergySingalFunc
-- [x] FractionSignalFunc
-- [x] TimeLimitedFunc
-- [x] BandLimitedFunc
-- [x] CardinalityFunc
-- [x] ScalarFunc
-- [x] VectorFunc
-
-
+- [ ] NormFunc
+- [ ] EnergySingalFunc
+- [ ] FractionSignalFunc
+- [ ] TimeLimitedFunc
+- [ ] BandLimitedFunc
+- [ ] CardinalityFunc
+- [ ] ScalarFunc
+- [ ] VectorFunc
 
 **ComplexFunc**
-- [o] RealByteFunc
-- [o] ImaginaryFunc
-- [o] PowerSpectralDensityFunc
+- [ ] RealByteFunc
+- [ ] ImaginaryFunc
+- [ ] PowerSpectralDensityFunc
 
 
 
