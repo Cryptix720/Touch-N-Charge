@@ -40,9 +40,9 @@ The goal with TNC project is to use new kind of charging technology.
 
 
 **ComplexFunc**
-- [x] RealByteFunc
-- [x] ImaginaryFunc
-- [x] PowerSpectralDensityFunc
+- [o] RealByteFunc
+- [o] ImaginaryFunc
+- [o] PowerSpectralDensityFunc
 
 
 
