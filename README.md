@@ -10,7 +10,8 @@ The goal with TNC project is to use new kind of charging technology.
 
 
 **ByteData**
-Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]
+``Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]``
+
 - [x] ByteArray 
 - [x] SignalByte 
 - [x] ScreenCharge 
@@ -36,14 +37,14 @@ Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]
 - [x] ScalarFunc
 - [x] VectorFunc
 
-```javascript
+
 
 **ComplexFunc**
 - [x] RealByteFunc
 - [x] ImaginaryFunc
 - [x] PowerSpectralDensityFunc
 
-```
+
 
 `Author: Chris Pro` 
 
