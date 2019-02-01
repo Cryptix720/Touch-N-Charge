@@ -11,8 +11,8 @@ The goal with TNC project is to use new kind of charging technology.
 
 # ByteData 
 Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]
-[] ByteArray 
-[] SignalByte 
+[0] ByteArray 
+[0] SignalByte 
 [] ScreenCharge 
 [] CapacityByte
 [] InductiveByte
