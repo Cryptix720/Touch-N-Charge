@@ -36,12 +36,15 @@ Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]
 - [x] ScalarFunc
 - [x] VectorFunc
 
+```javascript
+
 **ComplexFunc**
 - [x] RealByteFunc
 - [x] ImaginaryFunc
 - [x] PowerSpectralDensityFunc
 
+```
 
-`<addr>` 
-Author: Chris Pro
+`Author: Chris Pro` 
+
 
