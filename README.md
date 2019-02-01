@@ -9,37 +9,37 @@ The goal with TNC project is to use new kind of charging technology.
 ## Experimental Components for TNC:
 
 
-# ByteData 
+**ByteData**
 Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]
-[0] ByteArray 
-[0] SignalByte 
-[] ScreenCharge 
-[] CapacityByte
-[] InductiveByte
+- [x] ByteArray 
+- [x] SignalByte 
+- [x]ScreenCharge 
+- [x] CapacityByte
+- [x] InductiveByte
 
-## Signals 
-[] FrequencyByteArray
-[] FrequencyNode
-[] FrequencyFrag
-[] WaveformChargeNode
-[] WaveformChargeFrag
-[] SquareIntegrableSignals
-[] ImpulseDistSignal
+**Signals** 
+- [x]FrequencyByteArray
+- [x] FrequencyNode
+- [x] FrequencyFrag
+- [x] WaveformChargeNode
+- [x] WaveformChargeFrag
+- [x] SquareIntegrableSignals
+- [x] ImpulseDistSignal
 
-## Functions
-[] NormFunc
-[] EnergySingalFunc
-[] FractionSignalFunc
-[] TimeLimitedFunc
-[] BandLimitedFunc
-[] CardinalityFunc
-[] ScalarFunc
-[] VectorFunc
+**Functions**
+- [x] NormFunc
+- [x] EnergySingalFunc
+- [x] FractionSignalFunc
+- [x] TimeLimitedFunc
+- [x] BandLimitedFunc
+- [x] CardinalityFunc
+- [x] ScalarFunc
+- [x] VectorFunc
 
-## ComplexFunc
-[] RealByteFunc
-[] ImaginaryFunc
-[] PowerSpectralDensityFunc
+**ComplexFunc**
+- [x] RealByteFunc
+- [x] ImaginaryFunc
+- [x] PowerSpectralDensityFunc
 
 
 Author: Chris Pro
