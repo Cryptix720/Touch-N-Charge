@@ -16,7 +16,7 @@ The goal with TNC project is to use new kind of charging technology.
 
 
 **TouchInputData**
-- [ ] TouchByteArray 
+- [x] TouchByteArray 
 - [ ] TouchSignalByte 
 - [ ] TouchScreenCharge 
 - [ ] TouchCapacityByte
