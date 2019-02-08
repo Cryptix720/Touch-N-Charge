@@ -11,12 +11,18 @@ The goal with TNC project is to use new kind of charging technology.
 
 **ByteData**
 ``Data byte levels = [MIN: 64/128/256] [MAX: 512/1024/2048]``
+- [ ] ByteIO
+- [ ] FreqWattIO
 
-- [ ] ByteArray 
-- [ ] SignalByte 
-- [ ] ScreenCharge 
-- [ ] CapacityByte
-- [ ] InductiveByte
+
+**TouchInputData**
+- [ ] TouchByteArray 
+- [ ] TouchSignalByte 
+- [ ] TouchScreenCharge 
+- [ ] TouchCapacityByte
+- [ ] TouchInductiveByte
+- [ ] TouchEncoder
+- [ ] TouchDecoder
 
 **Signals** 
 - [ ] FrequencyByteArray
